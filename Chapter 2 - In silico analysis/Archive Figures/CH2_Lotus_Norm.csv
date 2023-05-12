@@ -1,0 +1,136 @@
+﻿SORT,Tissue,Treatment,RPKM,Gene,Type Data
+1,Leaf,Leaf,0.17,Lj.DHDPS-A,Normalized
+1,Leaf,Leaf,0.01,Lj.DHDPS-B1,Normalized
+1,Leaf,Leaf,0,Lj.DHDPS-B2,Normalized
+1,Leaf,Leaf,0.82,Lj.DHDPS-B3,Normalized
+1,Leaf,Leaf,0,Lj.DHDPS-B4,Normalized
+2,Root,Root,0.07,Lj.DHDPS-A,Normalized
+2,Root,Root,0.05,Lj.DHDPS-B1,Normalized
+2,Root,Root,0.11,Lj.DHDPS-B2,Normalized
+2,Root,Root,0.78,Lj.DHDPS-B3,Normalized
+2,Root,Root,0,Lj.DHDPS-B4,Normalized
+3,Immature flower,Immature_flower,0.09,Lj.DHDPS-A,Normalized
+3,Immature flower,Immature_flower,0,Lj.DHDPS-B1,Normalized
+3,Immature flower,Immature_flower,0,Lj.DHDPS-B2,Normalized
+3,Immature flower,Immature_flower,0.91,Lj.DHDPS-B3,Normalized
+3,Immature flower,Immature_flower,0,Lj.DHDPS-B4,Normalized
+4,Mature flower,Mature_flower,0.25,Lj.DHDPS-A,Normalized
+4,Mature flower,Mature_flower,0,Lj.DHDPS-B1,Normalized
+4,Mature flower,Mature_flower,0,Lj.DHDPS-B2,Normalized
+4,Mature flower,Mature_flower,0.75,Lj.DHDPS-B3,Normalized
+4,Mature flower,Mature_flower,0,Lj.DHDPS-B4,Normalized
+5,Pod,Pod,0.47,Lj.DHDPS-A,Normalized
+5,Pod,Pod,0,Lj.DHDPS-B1,Normalized
+5,Pod,Pod,0.03,Lj.DHDPS-B2,Normalized
+5,Pod,Pod,0.5,Lj.DHDPS-B3,Normalized
+5,Pod,Pod,0,Lj.DHDPS-B4,Normalized
+6,Seed,Seed,0.03,Lj.DHDPS-A,Normalized
+6,Seed,Seed,0,Lj.DHDPS-B1,Normalized
+6,Seed,Seed,0.01,Lj.DHDPS-B2,Normalized
+6,Seed,Seed,0.96,Lj.DHDPS-B3,Normalized
+6,Seed,Seed,0,Lj.DHDPS-B4,Normalized
+7,Root (1h mock),ZON_1hr_mock,0.04,Lj.DHDPS-A,Normalized
+7,Root (1h mock),ZON_1hr_mock,0.03,Lj.DHDPS-B1,Normalized
+7,Root (1h mock),ZON_1hr_mock,0.18,Lj.DHDPS-B2,Normalized
+7,Root (1h mock),ZON_1hr_mock,0.75,Lj.DHDPS-B3,Normalized
+7,Root (1h mock),ZON_1hr_mock,0,Lj.DHDPS-B4,Normalized
+8,Root (1h BAP),ZON_1hr_BA,0.03,Lj.DHDPS-A,Normalized
+8,Root (1h BAP),ZON_1hr_BA,0.02,Lj.DHDPS-B1,Normalized
+8,Root (1h BAP),ZON_1hr_BA,0.2,Lj.DHDPS-B2,Normalized
+8,Root (1h BAP),ZON_1hr_BA,0.74,Lj.DHDPS-B3,Normalized
+8,Root (1h BAP),ZON_1hr_BA,0,Lj.DHDPS-B4,Normalized
+9,Root (24h mock),ZON_24hr_mock,0.03,Lj.DHDPS-A,Normalized
+9,Root (24h mock),ZON_24hr_mock,0,Lj.DHDPS-B1,Normalized
+9,Root (24h mock),ZON_24hr_mock,0.03,Lj.DHDPS-B2,Normalized
+9,Root (24h mock),ZON_24hr_mock,0.93,Lj.DHDPS-B3,Normalized
+9,Root (24h mock),ZON_24hr_mock,0,Lj.DHDPS-B4,Normalized
+10,Root (24h BAP),ZON_24hr_BA,0,Lj.DHDPS-A,Normalized
+10,Root (24h BAP),ZON_24hr_BA,0.02,Lj.DHDPS-B1,Normalized
+10,Root (24h BAP),ZON_24hr_BA,0.23,Lj.DHDPS-B2,Normalized
+10,Root (24h BAP),ZON_24hr_BA,0.75,Lj.DHDPS-B3,Normalized
+10,Root (24h BAP),ZON_24hr_BA,0,Lj.DHDPS-B4,Normalized
+11,Root (3dpi mock),3dpi_root_mock,0.08,Lj.DHDPS-A,Normalized
+11,Root (3dpi mock),3dpi_root_mock,0.01,Lj.DHDPS-B1,Normalized
+11,Root (3dpi mock),3dpi_root_mock,0.2,Lj.DHDPS-B2,Normalized
+11,Root (3dpi mock),3dpi_root_mock,0.72,Lj.DHDPS-B3,Normalized
+11,Root (3dpi mock),3dpi_root_mock,0,Lj.DHDPS-B4,Normalized
+12,Root (3dpi M. loti),3dpi_root_R7A,0.07,Lj.DHDPS-A,Normalized
+12,Root (3dpi M. loti),3dpi_root_R7A,0.06,Lj.DHDPS-B1,Normalized
+12,Root (3dpi M. loti),3dpi_root_R7A,0.17,Lj.DHDPS-B2,Normalized
+12,Root (3dpi M. loti),3dpi_root_R7A,0.7,Lj.DHDPS-B3,Normalized
+12,Root (3dpi M. loti),3dpi_root_R7A,0,Lj.DHDPS-B4,Normalized
+13,Shoot (3dpi mock),3dpi_shoot_mock,0.02,Lj.DHDPS-A,Normalized
+13,Shoot (3dpi mock),3dpi_shoot_mock,0.03,Lj.DHDPS-B1,Normalized
+13,Shoot (3dpi mock),3dpi_shoot_mock,0.01,Lj.DHDPS-B2,Normalized
+13,Shoot (3dpi mock),3dpi_shoot_mock,0.94,Lj.DHDPS-B3,Normalized
+13,Shoot (3dpi mock),3dpi_shoot_mock,0,Lj.DHDPS-B4,Normalized
+14,Shoot (3dpi M. loti),3dpi_shoot_R7A,0.18,Lj.DHDPS-A,Normalized
+14,Shoot (3dpi M. loti),3dpi_shoot_R7A,0.03,Lj.DHDPS-B1,Normalized
+14,Shoot (3dpi M. loti),3dpi_shoot_R7A,0.01,Lj.DHDPS-B2,Normalized
+14,Shoot (3dpi M. loti),3dpi_shoot_R7A,0.78,Lj.DHDPS-B3,Normalized
+14,Shoot (3dpi M. loti),3dpi_shoot_R7A,0,Lj.DHDPS-B4,Normalized
+15,Nodule Primordia (7dpi M. loti),Nodule_primordia_7dpi,0.4,Lj.DHDPS-A,Normalized
+15,Nodule Primordia (7dpi M. loti),Nodule_primordia_7dpi,0.1,Lj.DHDPS-B1,Normalized
+15,Nodule Primordia (7dpi M. loti),Nodule_primordia_7dpi,0.05,Lj.DHDPS-B2,Normalized
+15,Nodule Primordia (7dpi M. loti),Nodule_primordia_7dpi,0.46,Lj.DHDPS-B3,Normalized
+15,Nodule Primordia (7dpi M. loti),Nodule_primordia_7dpi,0,Lj.DHDPS-B4,Normalized
+16,Nodules (10 dpi M. loti),Nodules_10dpi,0.66,Lj.DHDPS-A,Normalized
+16,Nodules (10 dpi M. loti),Nodules_10dpi,0.07,Lj.DHDPS-B1,Normalized
+16,Nodules (10 dpi M. loti),Nodules_10dpi,0.01,Lj.DHDPS-B2,Normalized
+16,Nodules (10 dpi M. loti),Nodules_10dpi,0.26,Lj.DHDPS-B3,Normalized
+16,Nodules (10 dpi M. loti),Nodules_10dpi,0,Lj.DHDPS-B4,Normalized
+17,Nodules (21 dpi M. loti),Nodules_21dpi,0.65,Lj.DHDPS-A,Normalized
+17,Nodules (21 dpi M. loti),Nodules_21dpi,0.1,Lj.DHDPS-B1,Normalized
+17,Nodules (21 dpi M. loti),Nodules_21dpi,0,Lj.DHDPS-B2,Normalized
+17,Nodules (21 dpi M. loti),Nodules_21dpi,0.24,Lj.DHDPS-B3,Normalized
+17,Nodules (21 dpi M. loti),Nodules_21dpi,0,Lj.DHDPS-B4,Normalized
+18,Root (3dpi mock ),Root_mock_microbialspectrum,0.09,Lj.DHDPS-A,Normalized
+18,Root (3dpi mock ),Root_mock_microbialspectrum,0.06,Lj.DHDPS-B1,Normalized
+18,Root (3dpi mock ),Root_mock_microbialspectrum,0.12,Lj.DHDPS-B2,Normalized
+18,Root (3dpi mock ),Root_mock_microbialspectrum,0.73,Lj.DHDPS-B3,Normalized
+18,Root (3dpi mock ),Root_mock_microbialspectrum,0,Lj.DHDPS-B4,Normalized
+19,Root (3 dpi M. loti ),M_loti_R7A_3dpi,0.08,Lj.DHDPS-A,Normalized
+19,Root (3 dpi M. loti ),M_loti_R7A_3dpi,0.06,Lj.DHDPS-B1,Normalized
+19,Root (3 dpi M. loti ),M_loti_R7A_3dpi,0.13,Lj.DHDPS-B2,Normalized
+19,Root (3 dpi M. loti ),M_loti_R7A_3dpi,0.73,Lj.DHDPS-B3,Normalized
+19,Root (3 dpi M. loti ),M_loti_R7A_3dpi,0,Lj.DHDPS-B4,Normalized
+20,Root (3 dpi B. elkanii),Bradyrhizobium_elkanii_USDA61_3dpi,0.08,Lj.DHDPS-A,Normalized
+20,Root (3 dpi B. elkanii),Bradyrhizobium_elkanii_USDA61_3dpi,0.06,Lj.DHDPS-B1,Normalized
+20,Root (3 dpi B. elkanii),Bradyrhizobium_elkanii_USDA61_3dpi,0.13,Lj.DHDPS-B2,Normalized
+20,Root (3 dpi B. elkanii),Bradyrhizobium_elkanii_USDA61_3dpi,0.73,Lj.DHDPS-B3,Normalized
+20,Root (3 dpi B. elkanii),Bradyrhizobium_elkanii_USDA61_3dpi,0,Lj.DHDPS-B4,Normalized
+21,Root (3dpi S. fredii),Sinorhizobium_fredii_HH103_3dpi,0.08,Lj.DHDPS-A,Normalized
+21,Root (3dpi S. fredii),Sinorhizobium_fredii_HH103_3dpi,0.06,Lj.DHDPS-B1,Normalized
+21,Root (3dpi S. fredii),Sinorhizobium_fredii_HH103_3dpi,0.13,Lj.DHDPS-B2,Normalized
+21,Root (3dpi S. fredii),Sinorhizobium_fredii_HH103_3dpi,0.73,Lj.DHDPS-B3,Normalized
+21,Root (3dpi S. fredii),Sinorhizobium_fredii_HH103_3dpi,0,Lj.DHDPS-B4,Normalized
+22,Root (3dpi P. syringae),Pseudomonas_syringae_pv_tomato_DC3000_3dpi,0.01,Lj.DHDPS-A,Normalized
+22,Root (3dpi P. syringae),Pseudomonas_syringae_pv_tomato_DC3000_3dpi,0.06,Lj.DHDPS-B1,Normalized
+22,Root (3dpi P. syringae),Pseudomonas_syringae_pv_tomato_DC3000_3dpi,0.13,Lj.DHDPS-B2,Normalized
+22,Root (3dpi P. syringae),Pseudomonas_syringae_pv_tomato_DC3000_3dpi,0.8,Lj.DHDPS-B3,Normalized
+22,Root (3dpi P. syringae),Pseudomonas_syringae_pv_tomato_DC3000_3dpi,0,Lj.DHDPS-B4,Normalized
+23,Root (3dpi R. solanacearum),Ralstonia_solanacearum_JS763_3dpi,0.08,Lj.DHDPS-A,Normalized
+23,Root (3dpi R. solanacearum),Ralstonia_solanacearum_JS763_3dpi,0.04,Lj.DHDPS-B1,Normalized
+23,Root (3dpi R. solanacearum),Ralstonia_solanacearum_JS763_3dpi,0.11,Lj.DHDPS-B2,Normalized
+23,Root (3dpi R. solanacearum),Ralstonia_solanacearum_JS763_3dpi,0.77,Lj.DHDPS-B3,Normalized
+23,Root (3dpi R. solanacearum),Ralstonia_solanacearum_JS763_3dpi,0,Lj.DHDPS-B4,Normalized
+24,Root (15 dpi mock),AM_mock_15d,0.06,Lj.DHDPS-A,Normalized
+24,Root (15 dpi mock),AM_mock_15d,0.03,Lj.DHDPS-B1,Normalized
+24,Root (15 dpi mock),AM_mock_15d,0.11,Lj.DHDPS-B2,Normalized
+24,Root (15 dpi mock),AM_mock_15d,0.8,Lj.DHDPS-B3,Normalized
+24,Root (15 dpi mock),AM_mock_15d,0,Lj.DHDPS-B4,Normalized
+25,Root (15 dpi G. intraradices),AM_15dpi,0.06,Lj.DHDPS-A,Normalized
+25,Root (15 dpi G. intraradices),AM_15dpi,0.03,Lj.DHDPS-B1,Normalized
+25,Root (15 dpi G. intraradices),AM_15dpi,0.1,Lj.DHDPS-B2,Normalized
+25,Root (15 dpi G. intraradices),AM_15dpi,0.82,Lj.DHDPS-B3,Normalized
+25,Root (15 dpi G. intraradices),AM_15dpi,0,Lj.DHDPS-B4,Normalized
+26,Root (27 dpi mock),AM_mock_27d,0.06,Lj.DHDPS-A,Normalized
+26,Root (27 dpi mock),AM_mock_27d,0.03,Lj.DHDPS-B1,Normalized
+26,Root (27 dpi mock),AM_mock_27d,0.11,Lj.DHDPS-B2,Normalized
+26,Root (27 dpi mock),AM_mock_27d,0.8,Lj.DHDPS-B3,Normalized
+26,Root (27 dpi mock),AM_mock_27d,0,Lj.DHDPS-B4,Normalized
+27,Root (27 dpi G. intraradices),AM_27dpi,0.05,Lj.DHDPS-A,Normalized
+27,Root (27 dpi G. intraradices),AM_27dpi,0.02,Lj.DHDPS-B1,Normalized
+27,Root (27 dpi G. intraradices),AM_27dpi,0.07,Lj.DHDPS-B2,Normalized
+27,Root (27 dpi G. intraradices),AM_27dpi,0.8,Lj.DHDPS-B3,Normalized
+27,Root (27 dpi G. intraradices),AM_27dpi,0.06,Lj.DHDPS-B4,Normalized

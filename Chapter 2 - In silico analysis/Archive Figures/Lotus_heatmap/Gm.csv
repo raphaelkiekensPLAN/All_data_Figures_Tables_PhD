@@ -1,0 +1,21 @@
+﻿Genes,Stage,GS1_Glyma.03G222000,GS1_Glyma.19G219100,GS2_Glyma.03G229800,GS2_Glyma.19G227800,GS3_Glyma.10G145300,GS3_Glyma.20G094500,RS1_Glyma.05G003900,RS2_Glyma.05G040300,RS2_Glyma.06G179200,SS_Glyma.19G217700
+Root (VE),Emergence stage,23.9,7.2,0.7,2.5,190.8,41,4.2,0.1,0.6,6.6
+Hypocotyl (VE),Emergence stage,59.4,128.3,7.5,1.3,73.9,125.7,18.8,0.8,8.7,34.7
+Leaf bud (VE),Emergence stage,5.8,15.1,0.9,0.9,2.6,14.2,1.8,0,0.2,0.8
+Leaf bud (V1),Early vegetative stage,9.4,19.7,0.7,0.3,6.2,15.4,42.6,0,1.5,4.3
+Primary leaf (V1),Early vegetative stage,2.7,9.2,0.4,1.4,10.7,30.8,355.9,0,7.7,13.7
+Cotyledon (V1),Early vegetative stage,0.7,109.7,0,6.5,77.7,71.6,35.4,0.3,10.5,284.5
+Hypocotyl (V1),Early vegetative stage,38,113.7,13.1,5.3,11.5,109.6,39.7,0.6,5,20.6
+Leaf bud (V7),Late vegetative stage,9.1,51.7,1.3,0.5,5.2,17.1,17,0,0.3,9
+Trifoliate leaf (V7),Late vegetative stage,10.4,39.4,0.2,1.2,1.8,53.5,46.6,0,2.9,23.4
+Flower bud (V7),Late vegetative stage,21.4,80.4,3,3.3,12.7,103.6,16.8,0.1,5.6,21.5
+Stem node (V7),Late vegetative stage,11,122.4,3.4,0.6,11.8,54.3,8.2,0.2,1.4,10
+Flower bud before flowering,Flowering stage,11.7,48.8,19.3,2,20.3,49.4,11.9,0.1,1.8,4.5
+Flower during opening,Flowering stage,8.5,50.2,176.2,30,26.7,87,13.1,0,2.3,8.1
+Flower 5 DAF opening,Flowering stage,9.8,73.6,183.4,25.1,37.8,64.1,9.3,0,1.2,6.2
+Flower senescence,Flowering stage,4.5,103.3,0.2,1.8,29.2,80.3,12.5,0,6.3,6.7
+Seed (21 DAF: EM),Seed developmental stage,0.9,0.3,0.7,18.9,2.7,2.7,16.4,1.6,3.5,9.8
+Seed (35 DAF: EM),Seed developmental stage,1.4,0.5,0.3,7.6,3.7,0.8,7.2,4.8,12,8.7
+Seed (42 DAF: EM),Seed developmental stage,0.7,0.1,0.5,31.5,2.7,2.1,9.7,1.4,8.3,8.3
+Seed (56 DAF: EM),Seed developmental stage,0.4,0.2,0.3,16.6,6.1,1.7,9.7,2.9,10.9,4.3
+Seed (70 DAF: MM),Seed developmental stage,721.7,328.2,7.7,280.9,95.2,22.5,13.6,123,109.4,214
